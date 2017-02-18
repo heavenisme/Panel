@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/heaven/AndroidStudioProjects/Panel/app/build/intermediates/res/merged/debug/drawable-mdpi/bg_btn_send_pressed.png",
+        "source": "/Users/heaven/AndroidStudioProjects/Panel/app/src/main/res/drawable-mdpi/bg_btn_send_pressed.png"
+    },
+    {
+        "merged": "/Users/heaven/AndroidStudioProjects/Panel/app/build/intermediates/res/merged/debug/drawable-mdpi/paper.png",
+        "source": "/Users/heaven/AndroidStudioProjects/Panel/app/src/main/res/drawable-mdpi/paper.png"
+    },
+    {
+        "merged": "/Users/heaven/AndroidStudioProjects/Panel/app/build/intermediates/res/merged/debug/drawable-mdpi/bg_head_tran.png",
+        "source": "/Users/heaven/AndroidStudioProjects/Panel/app/src/main/res/drawable-mdpi/bg_head_tran.png"
+    },
+    {
+        "merged": "/Users/heaven/AndroidStudioProjects/Panel/app/build/intermediates/res/merged/debug/drawable-mdpi/bg_body_nongreen.png",
+        "source": "/Users/heaven/AndroidStudioProjects/Panel/app/src/main/res/drawable-mdpi/bg_body_nongreen.png"
+    },
+    {
+        "merged": "/Users/heaven/AndroidStudioProjects/Panel/app/build/intermediates/res/merged/debug/drawable-mdpi/btn_eraser_pressed.png",
+        "source": "/Users/heaven/AndroidStudioProjects/Panel/app/src/main/res/drawable-mdpi/btn_eraser_pressed.png"
+    },
+    {
+        "merged": "/Users/heaven/AndroidStudioProjects/Panel/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/heaven/AndroidStudioProjects/Panel/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/heaven/AndroidStudioProjects/Panel/app/build/intermediates/res/merged/debug/drawable-mdpi/btn_eraser.png",
+        "source": "/Users/heaven/AndroidStudioProjects/Panel/app/src/main/res/drawable-mdpi/btn_eraser.png"
+    },
+    {
+        "merged": "/Users/heaven/AndroidStudioProjects/Panel/app/build/intermediates/res/merged/debug/drawable-mdpi/bg_btn_send.png",
+        "source": "/Users/heaven/AndroidStudioProjects/Panel/app/src/main/res/drawable-mdpi/bg_btn_send.png"
+    },
+    {
+        "merged": "/Users/heaven/AndroidStudioProjects/Panel/app/build/intermediates/res/merged/debug/drawable-mdpi/line_dotted_onclass.png",
+        "source": "/Users/heaven/AndroidStudioProjects/Panel/app/src/main/res/drawable-mdpi/line_dotted_onclass.png"
+    },
+    {
+        "merged": "/Users/heaven/AndroidStudioProjects/Panel/app/build/intermediates/res/merged/debug/drawable-mdpi/b.png",
+        "source": "/Users/heaven/AndroidStudioProjects/Panel/app/src/main/res/drawable-mdpi/b.png"
+    },
+    {
+        "merged": "/Users/heaven/AndroidStudioProjects/Panel/app/build/intermediates/res/merged/debug/drawable-mdpi/btn_del.png",
+        "source": "/Users/heaven/AndroidStudioProjects/Panel/app/src/main/res/drawable-mdpi/btn_del.png"
+    },
+    {
+        "merged": "/Users/heaven/AndroidStudioProjects/Panel/app/build/intermediates/res/merged/debug/drawable-mdpi/btn_del_pressed.png",
+        "source": "/Users/heaven/AndroidStudioProjects/Panel/app/src/main/res/drawable-mdpi/btn_del_pressed.png"
+    }
+]

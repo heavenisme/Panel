@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/heaven/AndroidStudioProjects/Panel/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/heaven/AndroidStudioProjects/Panel/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_ff5fee89c74a75572873bd468ae6a836a2f54f62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/heaven/AndroidStudioProjects/Panel/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/heaven/AndroidStudioProjects/Panel/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_e2e430a8851ae848760dd87a9da25a5610385b62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/heaven/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/heaven/AndroidStudioProjects/Panel/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_68eda6f97ad938593c48c6e5a593c60e0262636c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/heaven/AndroidStudioProjects/Panel/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/heaven/AndroidStudioProjects/Panel/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_2c6dcb1b540e7256e9d8056a080f87d798e291ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/heaven/AndroidStudioProjects/Panel/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/heaven/AndroidStudioProjects/Panel/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_0d9810a0cc6fed5ccd7dbb8d02a205f77503c8d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/heaven/AndroidStudioProjects/Panel/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/heaven/AndroidStudioProjects/Panel/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_e1921c0fab04810fdbf251d68442639568b0942e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/heaven/AndroidStudioProjects/Panel/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/heaven/AndroidStudioProjects/Panel/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_bcf0aa293069568b23f66422d0ed340f550f50fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/heaven/AndroidStudioProjects/Panel/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/heaven/AndroidStudioProjects/Panel/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_1a0b2e863d9c08544a9341ab15ce6040a86b930a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/heaven/AndroidStudioProjects/Panel/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/heaven/AndroidStudioProjects/Panel/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_e89c3edd6f22cd66e855a09835b0a0b1c891d454.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/heaven/AndroidStudioProjects/Panel/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/heaven/AndroidStudioProjects/Panel/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_1d3bb98f616173721eaa4431931e260559d3decc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/heaven/AndroidStudioProjects/Panel/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/heaven/AndroidStudioProjects/Panel/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_56a55aba92fb308d592a4b5891ec1e0f8cbf1e2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/heaven/AndroidStudioProjects/Panel/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/heaven/AndroidStudioProjects/Panel/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_9faf4d5768dd9caeef5f574b2f6f05d56d0f519a.jar" />
+    </item>
+
+</items>
